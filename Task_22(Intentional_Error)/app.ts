@@ -6,8 +6,8 @@ correct the error before closing the program.*/
 // Creating a error
 let errorArray: string[] = ["A", "B", "C", "D"];
 
-// Producing Error ! by Accessing invalid index of arrray
-// console.log(errorArray[6]);
+Producing Error ! by Accessing invalid index of arrray
+console.log(errorArray[6]);
 
 
 // Error Removed
